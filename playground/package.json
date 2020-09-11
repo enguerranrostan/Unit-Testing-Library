@@ -1,0 +1,8 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "unit-testing-library"
+  },
+  "license": "MIT"
+}
