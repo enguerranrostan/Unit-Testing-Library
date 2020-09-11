@@ -1,0 +1,15 @@
+{
+  "name": "unit-testing-library",
+  "version": "1.0.0",
+  "description": "A JS unit testing library",
+  "bin": "./bin/unit-testing-library",
+  "main": "lib/src/index.js",
+  "scripts": {
+    "unit-testing-library": "./bin/unit-testing-library.js"
+  },
+  "author": "Enguerran Rostan",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
+}
