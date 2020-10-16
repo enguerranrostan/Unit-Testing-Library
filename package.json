@@ -1,6 +1,6 @@
 {
   "name": "@enguerranrostan/unit-testing-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JS unit testing library",
   "bin": "./bin/unit-testing-library",
   "main": "lib/src/index.js",
