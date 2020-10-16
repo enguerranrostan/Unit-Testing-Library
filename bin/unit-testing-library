@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+const package = require("../package.json");
+
+process.title = "unit-testing-library";
+
+require("../lib/cli");
